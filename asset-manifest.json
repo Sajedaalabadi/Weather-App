@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.02f3b943.css",
+    "main.js": "/Weather-App/static/js/main.5b2cee60.js",
+    "static/media/weatheback.jpg": "/Weather-App/static/media/weatheback.5fcfeccb9dcdac5bdc97.jpg",
+    "static/media/3001764.png": "/Weather-App/static/media/3001764.f2a59cc4ad31fe6c0079.png",
+    "static/media/University_of_Jordan_Logo.svg.png": "/Weather-App/static/media/University_of_Jordan_Logo.svg.f866357e4879114310d1.png",
+    "index.html": "/Weather-App/index.html",
+    "main.02f3b943.css.map": "/Weather-App/static/css/main.02f3b943.css.map",
+    "main.5b2cee60.js.map": "/Weather-App/static/js/main.5b2cee60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f3b943.css",
+    "static/js/main.5b2cee60.js"
+  ]
+}
