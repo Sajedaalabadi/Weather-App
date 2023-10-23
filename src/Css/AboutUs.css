@@ -1,0 +1,32 @@
+.about-us-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .about-us-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .about-us-images {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .about-us-images img {
+    width: 200px; /* ضبط حجم الصور حسب الحاجة */
+    height: auto;
+    margin-right: 20px; /* إضافة هامش بين الصور */
+  }
+  
+  .about-us-text {
+    text-align: center; /* ضبط محتوى النص إلى الوسط */
+  }
+  

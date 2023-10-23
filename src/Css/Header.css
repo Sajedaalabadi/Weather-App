@@ -1,0 +1,17 @@
+/* Header.css */
+/* You can customize these styles according to your preferences */
+.navbar {
+  background-color: #4f5255;
+   opacity: 0.8;
+}
+
+.navbar a {
+  color: #ffffff; /* Link text color */
+}
+
+/* Active link styling */
+.navbar a.active {
+  background-color: #3128a7; /* Background color for active link */
+}
+
+/* Add custom styles for other elements as needed */

@@ -1,0 +1,14 @@
+body,h1{
+    font-family: 'Do Hyeon', sans-serif;
+}
+:root {
+    --background-color: #fff;
+    --text-color: #333;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+  }
+  

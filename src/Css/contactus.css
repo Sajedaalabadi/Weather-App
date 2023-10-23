@@ -1,0 +1,30 @@
+.contact-us-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+  text-align: center;
+}
+
+.contact-icons {
+  display: flex;
+  justify-content: space-around;
+  font-size: 24px;
+  margin-top: 20px;
+  gap: 80px;
+}
+
+.phone,
+.email {
+  display: flex;
+  align-items: center;
+  
+}
+
+.phone i,
+.email i {
+  margin-right: 10px;
+  
+}

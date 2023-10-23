@@ -1,0 +1,21 @@
+  body{
+    background-image: url(../image/weatheback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} 
+h1{
+    color: rgb(227, 226, 231);
+}
+button
+{
+    background-color: rgb(58, 58, 73);
+    
+    border: 2px solid rgb(91, 91, 172);
+    border-radius: 25px;
+    padding: 22px 22px;
+    
+}
+Link{
+    color: white;
+} 

@@ -1,0 +1,21 @@
+/* Services.css */
+
+.services-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: calc(100vh ); /* Adjust the height according to your header's height */
+
+  }
+  
+  .services-page h1 {
+    font-size: 24px;
+    margin: 0 0 20px;
+  }
+  
+  .services-page p {
+    font-size: 16px;
+  }
+  

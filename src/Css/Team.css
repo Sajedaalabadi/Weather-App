@@ -1,0 +1,45 @@
+.team-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh); /* Adjust for the height of your header */
+ 
+}
+
+.team-members {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Adjust the number for the desired number of columns */
+  gap: 20px; /* Add some spacing between the boxes */
+}
+
+.team-member {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.team-member-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-member img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.team-member h3 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.team-member p {
+  font-size: 14px;
+  color: #666;
+  margin: 0;
+  text-align: center;
+}
